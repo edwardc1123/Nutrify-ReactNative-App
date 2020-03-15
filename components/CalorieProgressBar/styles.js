@@ -4,20 +4,20 @@ const styles = StyleSheet.create({
     centeredContainer: {
         justifyContent: 'center',
         alignItems: 'center',
-        marginBottom: 30,
-        marginTop: 30,
+        marginBottom: 50,
+        marginTop: 50,
     },
     textContainer: {
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: 30,
+        marginTop: 50,
     },
     consumedNumber: {
-        fontSize: 30,
+        fontSize: 50,
         fontFamily: 'Montserrat_800ExtraBold',
     },
     totalCaloriesText: {
-        fontSize: 20,
+        fontSize: 15,
         fontFamily: 'Montserrat_300Light',
     },
 });
